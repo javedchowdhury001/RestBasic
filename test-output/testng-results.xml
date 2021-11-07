@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6020" started-at="2021-10-01T12:13:16 EDT" finished-at="2021-10-01T12:13:22 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6020" started-at="2021-10-01T12:13:16 EDT" finished-at="2021-10-01T12:13:22 EDT">
+      <class name="LibraryApiTest.excelDriven">
+        <test-method status="PASS" signature="addBook()[pri:0, instance:LibraryApiTest.excelDriven@646d64ab]" name="addBook" duration-ms="5958" started-at="2021-10-01T12:13:17 EDT" finished-at="2021-10-01T12:13:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- LibraryApiTest.excelDriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
